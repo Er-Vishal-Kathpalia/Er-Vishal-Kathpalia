@@ -1,11 +1,5 @@
 <!-- ======================= MARIO x ELITE ENGINEER ======================= -->
 
-<h1 align="center">🟥🟫🟩 V I S H A L   K A T H P A L I A 🟩🟫🟥</h1>
-
-<p align="center">
-  <b>Backend Engineer • Microservices • Distributed Systems</b>
-</p>
-
 <p align="center">
   <img src="/mario-banner.svg" width="100%"/>
 </p>
