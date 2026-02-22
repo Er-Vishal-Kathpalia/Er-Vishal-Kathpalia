@@ -65,21 +65,7 @@ Elasticsearch (Indexing & Search)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Er-Vishal-Kathpalia&show_icons=true&theme=dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=dark&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🍄 Enter the Mario World
-
-<p align="center">
-  <a href="[https://www.youtube.com/watch?v=5WcyVvWZJU4](https://www.youtube.com/watch?v=NTa6Xbzfq1U&list=RDNTa6Xbzfq1U&start_radio=1)" target="_blank">
-    <img src="https://img.youtube.com/vi/5WcyVvWZJU4/maxresdefault.jpg" width="500"/>
-  </a>
-</p>
-
-<p align="center">
-  ▶ Click to Enter Level 1-1
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Er-Vishal-Kathpalia&theme=dark&hide_border=true" height="170"/>
 </p>
 
 ---
