@@ -1,128 +1,109 @@
-<!-- =======================  HEADER  ======================= -->
+<!-- ================= CYBERPUNK HEADER ================= -->
 
-<h1 align="center">Hey 👋 I'm Vishal Kathpalia</h1>
-<h3 align="center">⚡ Backend Engineer | Distributed Systems Builder | Performance Optimizer 🚀</h3>
+<h1 align="center">⚡ V I S H A L   K A T H P A L I A ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+Kafka+%7C+Elasticsearch;Microservices+Architect;Distributed+Systems+Explorer;90x+Performance+Optimizer+%F0%9F%94%A5;Building+Scalable+Backends+at+Tekion" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=FF00FF&center=true&vCenter=true&width=750&lines=Backend+Engineer+in+Progress;Java+%7C+Spring+Boot+%7C+Kafka;Microservices+Architect+Mindset;System+Design+Learner;Future+Distributed+Systems+Master" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQm9cGzK9i/giphy.gif" width="420"/>
+</p>
+
+<p align="center">
+  <b>🌌 Building in the backend shadows.</b><br>
+  <b>⚡ Scaling systems before they break.</b><br>
+  <b>🎌 Debugging like an anime protagonist in the final arc.</b>
 </p>
 
 ---
 
-<!-- =======================  AVATAR + BITMOJI  ======================= -->
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="150" style="border-radius:50%" />
-</p>
-
-<p align="center">
-  😎 <b>Backend > Frontend</b> <br>
-  🧠 I debug production like Sherlock <br>
-  🚀 I scale systems before systems scale me
-</p>
-
----
-
-<!-- =======================  COOL BADGES  ======================= -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Java-red?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Framework-SpringBoot-brightgreen?style=for-the-badge&logo=springboot" />
-  <img src="https://img.shields.io/badge/Messaging-Kafka-black?style=for-the-badge&logo=apachekafka" />
-  <img src="https://img.shields.io/badge/Search-Elasticsearch-yellow?style=for-the-badge&logo=elasticsearch" />
-  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/NoSQL-MongoDB-green?style=for-the-badge&logo=mongodb" />
-</p>
-
----
-
-# 🧠 About Me
+# 🧠 // PROFILE
 
 ```diff
-+ Software Engineer II @ Tekion
-+ 4+ Years in Backend Engineering
-+ Built 10+ Microservices
-+ 90x Performance Optimization Achieved
-+ Migrated Millions of Records with Zero Data Loss
++ B.Tech CSE (Honors) 🎓
++ Backend Developer Intern @ Tekion
++ Microservices & API Builder
++ Strong DSA & System Design Foundation
 ```
 
-🔥 I design **scalable microservices**  
-⚡ I build **high-performance distributed systems**  
-📡 I implement **real-time data sync using Kafka & CDC**  
-🛠 I modernize legacy systems into high-throughput architectures  
+Minimal words. Maximum impact.
 
-If it scales, breaks, or needs optimization — I’m already debugging it.
+I build clean backend systems with performance, scalability, and reliability in mind.  
+Focused on mastering distributed architectures and high-throughput systems.
 
 ---
 
-# 🚀 Tech Arsenal
+# 🏢 // EXPERIENCE
 
-### 👨‍💻 Languages
-`Java` `Python` `C++`
+## 🚀 Software Engineer Intern — Tekion
 
-### 🏗 Backend & Architecture
-`Spring Boot` `Hibernate` `Microservices` `REST APIs`  
-`HLD` `LLD` `System Design`
+> Designed and built backend for an internal Recruitment Portal.
 
-### 📡 Distributed Systems
-`Kafka` `CDC Pipelines` `Async Processing` `Event-Driven Architecture`
-
-### 🗄 Databases
-`MySQL` `MongoDB` `Redis` `Elasticsearch`
+⚡ Built microservice from scratch using **Java & Spring Boot**  
+🗄 Integrated **MongoDB + Elasticsearch**  
+🔁 Implemented batch migration APIs  
+📡 Explored Kafka-based event-driven flows  
+🚀 Successfully deployed to production  
 
 ---
 
-# 📊 GitHub Stats
+# ⚙️ // TECH STACK
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="160"/>
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,kafka,python,cpp,git,docker" />
+
 </p>
 
 ---
 
-# 🏆 Engineering Highlights
+# 📊 // GITHUB STATS
 
-💥 Achieved **90x performance improvement** in critical module  
-📦 Migrated **millions of records** safely across systems  
-⚙️ Built **3 microservices from scratch**  
-🧩 Contributed to **10–12 microservices ecosystem**  
-🚀 Production-grade deployments with minimal downtime  
-
----
-
-# 🎯 2026 Vision
-
-- 🔥 Master Distributed System Design
-- 📚 Deep dive into Concurrency & Performance Tuning
-- 🌍 Contribute to large-scale global systems
-- 🧠 Move towards Senior / Staff Engineer path
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" height="160"/>
+</p>
 
 ---
 
-# 🌐 Let's Connect
+# 🎯 // CURRENT ARC
+
+- 📚 Mastering System Design
+- ⚡ Learning Distributed Systems
+- 🧠 Exploring Concurrency & Async Architectures
+- 🚀 Building scalable side projects
+
+---
+
+# 🌐 // CONNECT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishalkathpalia/">
-    <img src="https://img.shields.io/badge/LinkedIn-Vishal%20Kathpalia-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Neon%20Mode-ff00ff?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
 
-# 💡 Fun Fact
+# 💻 // DEVELOPER MANTRA
 
-```bash
-while(alive) {
-    learn();
-    build();
-    optimize();
-    repeat();
+```java
+public class Developer {
+
+    public static void main(String[] args) {
+
+        while(true) {
+            learn();
+            build();
+            optimize();
+        }
+    }
 }
 ```
 
 ---
 
 <p align="center">
-  ⚡ “First make it work. Then make it scale. Then make it beautiful.” ⚡
+  ⚡ Code Hard. Scale Smart. Stay Legendary. ⚡
 </p>
