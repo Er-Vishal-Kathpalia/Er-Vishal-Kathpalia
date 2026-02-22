@@ -101,6 +101,41 @@ Figma
 
 ---
 
+---
+
+# 🧰 Power Inventory
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,c,cpp,js,react,vue,html,css,mongodb,mysql,nodejs,php,laravel,flutter,docker,kubernetes,linux,git,vscode,figma" />
+</p>
+
+<p align="center">
+  🧱 Backend Bricks • ⚡ Runtime Power • 🪙 Production Coins
+</p>
+
+---
+
+## 🎮 Tool Loadout
+
+```
+Primary Weapons:
+  Java • Spring Boot • Microservices • Kafka
+
+Database Arsenal:
+  MySQL • MongoDB • Elasticsearch
+
+Frontend Experience:
+  React • Vue • HTML • CSS
+
+DevOps & Infrastructure:
+  Docker • Kubernetes • Linux
+
+Workflow & Design:
+  Git • Bash • VS Code • Figma
+```
+
+---
+
 <p align="center">
   🟥⬛🟫⬛🟩  
   <br>
