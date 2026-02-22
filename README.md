@@ -131,3 +131,9 @@ Workflow & Design:
   <br>
   <b>Code. Optimize. Level Up.</b>
 </p>
+
+---
+
+<p align="center">
+  <img src="/mario-footer.svg" width="100%"/>
+</p>
