@@ -1,15 +1,17 @@
 <!-- ======================= MARIO x ELITE ENGINEER ======================= -->
 
+<h1 align="center">🍄 VISHAL KATHPALIA 🍄</h1>
+
 <p align="center">
-  <img src="/mario-banner.svg" width="100%"/>
+  🟥🟫🟩⬛🟩🟫🟥
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=D4AF37&center=true&vCenter=true&width=700&lines=Entering+Backend+World...;Building+Scalable+Systems;Optimizing+Performance;Defeating+Bugs+Since+2018" />
+  <b>Backend Engineer</b> • Microservices • Distributed Systems
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l1KtXmfi3EnjM5zpK/giphy.gif" width="300"/>
+  <code>make it work → make it scale → make it elegant</code>
 </p>
 
 ---
