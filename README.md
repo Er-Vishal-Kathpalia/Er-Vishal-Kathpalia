@@ -66,29 +66,8 @@ Elasticsearch (Indexing & Search)
 # 🎮 Game Stats — World Progress
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🕹 Player Metrics
-
-```
-🪙 Total XP (Commits):      Updating...
-🔥 Current Streak:          Active
-🏰 Pull Requests (Boss Wins): Multiple
-🧱 Issues Resolved:         Consistent
-⭐ Top Repositories:         See Below
-```
-
----
-
-## 🏆 Top Worlds (Top Repositories)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_TOP_REPO_1&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_TOP_REPO_2&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Er-Vishal-Kathpalia&show_icons=true&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=dark&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -96,7 +75,7 @@ Elasticsearch (Indexing & Search)
 ## 🍄 Enter the Mario World
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=5WcyVvWZJU4" target="_blank">
+  <a href="[https://www.youtube.com/watch?v=5WcyVvWZJU4](https://www.youtube.com/watch?v=NTa6Xbzfq1U&list=RDNTa6Xbzfq1U&start_radio=1)" target="_blank">
     <img src="https://img.youtube.com/vi/5WcyVvWZJU4/maxresdefault.jpg" width="500"/>
   </a>
 </p>
