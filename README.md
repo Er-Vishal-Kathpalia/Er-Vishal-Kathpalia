@@ -1,68 +1,79 @@
-<!-- ===================== BLACK + GOLD ELITE ===================== -->
+<!-- ======================= MARIO x ELITE ENGINEER ======================= -->
 
-<h1 align="center" style="color:#D4AF37;">Vishal Kathpalia</h1>
+<h1 align="center">🟥🟫🟩 V I S H A L   K A T H P A L I A 🟩🟫🟥</h1>
 
 <p align="center">
-  <b>Backend Engineer</b> • Java • Spring Boot • Kafka • Microservices
+  <b>Backend Engineer • Microservices • Distributed Systems</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=D4AF37&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Clean+Architecture+%7C+Performance+Focused;System+Design+Learner;Engineering+with+Precision" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=D4AF37&center=true&vCenter=true&width=700&lines=Entering+Backend+World...;Building+Scalable+Systems;Optimizing+Performance;Defeating+Bugs+Since+2018" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/10LKovKon8DENq/giphy.gif" width="120"/>
 </p>
 
 ---
 
-## Profile
+## 🎮 Player Profile
 
-Backend-focused engineer with strong foundations in system design, microservices architecture, and performance optimization.
+```
+🎮 Player: Vishal
+🧠 Class: Backend Engineer
+⚡ Special Ability: Performance Optimization
+🛠 Main Weapons: Java • Spring Boot • Kafka
+🏗 Build Style: Microservices Architecture
+👑 Goal: Architect Scalable Distributed Systems
+```
 
-Experienced in building production-ready backend services and designing scalable APIs with clean, maintainable architecture.
-
-Focused on depth over hype. Engineering over aesthetics.
+Engineering mindset focused on precision, scalability, and reliability.  
+Building backend systems that survive production-level boss fights.
 
 ---
 
-## Experience
+## 🏰 Experience
 
-### Software Engineer Intern  
-**Tekion**
+### 🧑‍💻 Software Engineer Intern — Tekion
 
 - Designed and built backend services for internal recruitment platform  
-- Developed microservice from scratch using Java and Spring Boot  
+- Developed microservice from scratch using Java & Spring Boot  
 - Integrated MongoDB and Elasticsearch  
 - Implemented batch migration APIs for legacy data  
-- Deployed services to production environment  
+- Deployed services to production  
+
+Learned to design systems that don’t just work — they scale.
 
 ---
 
-## Technical Stack
+## ⚙️ Core Engineering Skills
 
-**Languages**  
-Java • Python • C++
+### 🧱 Backend & Architecture
+Java • Spring Boot • Microservices  
+REST APIs • Async Processing  
+HLD • LLD • Scalable Design
 
-**Backend & Architecture**  
-Spring Boot • REST APIs • Microservices • System Design (HLD/LLD)
-
-**Messaging & Search**  
-Kafka • Elasticsearch
-
-**Databases**  
-MySQL • MongoDB
-
----
-
-## Education
-
-**B.Tech – Computer Science & Engineering (Honors)**  
-Lovely Professional University  
-CGPA: 8.8/10
-
-Core Areas:  
-Data Structures • Operating Systems • Computer Networks • Database Design • AI • Cloud Computing
+### 📡 Data & Messaging
+Kafka  
+MySQL (Query Optimization)  
+MongoDB (Schema Design)  
+Elasticsearch (Indexing & Search)
 
 ---
 
-## GitHub Overview
+## 🛠 Supporting Tools
+
+Docker • Kubernetes • Linux  
+Git • Bash • VS Code  
+
+Working Knowledge:  
+Python • C++ • Node.js  
+React • Vue • HTML • CSS  
+Figma  
+
+---
+
+## 📊 Game Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" height="160"/>
@@ -71,15 +82,27 @@ Data Structures • Operating Systems • Computer Networks • Database Design 
 
 ---
 
-## Focus Areas
+## 🎯 Current Level Objectives
 
-- Distributed Systems  
-- Performance Engineering  
-- Scalable Microservices  
-- Clean Backend Architecture  
+- 🔥 Master Distributed Systems
+- ⚡ Deepen System Design expertise
+- 🧠 Explore Concurrency & Event-Driven Systems
+- 🚀 Build production-scale side projects
 
 ---
 
-<p align="center" style="color:#D4AF37;">
-  Precision. Scalability. Reliability.
+## 🌐 Press Start
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishalkathpalia/">
+    <img src="https://img.shields.io/badge/LinkedIn-Enter%20World-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🟥⬛🟫⬛🟩  
+  <br>
+  <b>Code. Optimize. Level Up.</b>
 </p>
