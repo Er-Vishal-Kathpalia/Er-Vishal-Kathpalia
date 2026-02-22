@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/mario-banner.svg" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=D4AF37&center=true&vCenter=true&width=700&lines=Entering+Backend+World...;Building+Scalable+Systems;Optimizing+Performance;Defeating+Bugs+Since+2018" />
 </p>
 
