@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=D4AF37&center=true&vCenter=true&width=700&lines=Entering+Backend+World...;Building+Scalable+Systems;Optimizing+Performance;Defeating+Bugs+Since+2018" />
+  <img src="https://media.giphy.com/media/l1KtXmfi3EnjM5zpK/giphy.gif" width="120"/>
 </p>
 
 <p align="center">
