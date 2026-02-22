@@ -1,109 +1,85 @@
-<!-- ================= CYBERPUNK HEADER ================= -->
+<!-- ===================== BLACK + GOLD ELITE ===================== -->
 
-<h1 align="center">⚡ V I S H A L   K A T H P A L I A ⚡</h1>
+<h1 align="center" style="color:#D4AF37;">Vishal Kathpalia</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=FF00FF&center=true&vCenter=true&width=750&lines=Backend+Engineer+in+Progress;Java+%7C+Spring+Boot+%7C+Kafka;Microservices+Architect+Mindset;System+Design+Learner;Future+Distributed+Systems+Master" />
+  <b>Backend Engineer</b> • Java • Spring Boot • Kafka • Microservices
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQm9cGzK9i/giphy.gif" width="420"/>
-</p>
-
-<p align="center">
-  <b>🌌 Building in the backend shadows.</b><br>
-  <b>⚡ Scaling systems before they break.</b><br>
-  <b>🎌 Debugging like an anime protagonist in the final arc.</b>
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=D4AF37&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Clean+Architecture+%7C+Performance+Focused;System+Design+Learner;Engineering+with+Precision" />
 </p>
 
 ---
 
-# 🧠 // PROFILE
+## Profile
 
-```diff
-+ B.Tech CSE (Honors) 🎓
-+ Backend Developer Intern @ Tekion
-+ Microservices & API Builder
-+ Strong DSA & System Design Foundation
-```
+Backend-focused engineer with strong foundations in system design, microservices architecture, and performance optimization.
 
-Minimal words. Maximum impact.
+Experienced in building production-ready backend services and designing scalable APIs with clean, maintainable architecture.
 
-I build clean backend systems with performance, scalability, and reliability in mind.  
-Focused on mastering distributed architectures and high-throughput systems.
+Focused on depth over hype. Engineering over aesthetics.
 
 ---
 
-# 🏢 // EXPERIENCE
+## Experience
 
-## 🚀 Software Engineer Intern — Tekion
+### Software Engineer Intern  
+**Tekion**
 
-> Designed and built backend for an internal Recruitment Portal.
-
-⚡ Built microservice from scratch using **Java & Spring Boot**  
-🗄 Integrated **MongoDB + Elasticsearch**  
-🔁 Implemented batch migration APIs  
-📡 Explored Kafka-based event-driven flows  
-🚀 Successfully deployed to production  
+- Designed and built backend services for internal recruitment platform  
+- Developed microservice from scratch using Java and Spring Boot  
+- Integrated MongoDB and Elasticsearch  
+- Implemented batch migration APIs for legacy data  
+- Deployed services to production environment  
 
 ---
 
-# ⚙️ // TECH STACK
+## Technical Stack
+
+**Languages**  
+Java • Python • C++
+
+**Backend & Architecture**  
+Spring Boot • REST APIs • Microservices • System Design (HLD/LLD)
+
+**Messaging & Search**  
+Kafka • Elasticsearch
+
+**Databases**  
+MySQL • MongoDB
+
+---
+
+## Education
+
+**B.Tech – Computer Science & Engineering (Honors)**  
+Lovely Professional University  
+CGPA: 8.8/10
+
+Core Areas:  
+Data Structures • Operating Systems • Computer Networks • Database Design • AI • Cloud Computing
+
+---
+
+## GitHub Overview
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,kafka,python,cpp,git,docker" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" height="160"/>
 </p>
 
 ---
 
-# 📊 // GITHUB STATS
+## Focus Areas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" height="160"/>
-</p>
-
----
-
-# 🎯 // CURRENT ARC
-
-- 📚 Mastering System Design
-- ⚡ Learning Distributed Systems
-- 🧠 Exploring Concurrency & Async Architectures
-- 🚀 Building scalable side projects
+- Distributed Systems  
+- Performance Engineering  
+- Scalable Microservices  
+- Clean Backend Architecture  
 
 ---
 
-# 🌐 // CONNECT
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vishalkathpalia/">
-    <img src="https://img.shields.io/badge/LinkedIn-Neon%20Mode-ff00ff?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
----
-
-# 💻 // DEVELOPER MANTRA
-
-```java
-public class Developer {
-
-    public static void main(String[] args) {
-
-        while(true) {
-            learn();
-            build();
-            optimize();
-        }
-    }
-}
-```
-
----
-
-<p align="center">
-  ⚡ Code Hard. Scale Smart. Stay Legendary. ⚡
+<p align="center" style="color:#D4AF37;">
+  Precision. Scalability. Reliability.
 </p>
