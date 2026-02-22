@@ -1,0 +1,72 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <!-- Brick Pattern -->
+    <pattern id="brickPattern" width="60" height="40" patternUnits="userSpaceOnUse">
+      <rect width="60" height="40" fill="#b5521f"/>
+      <line x1="0" y1="20" x2="60" y2="20" stroke="#8c3a10" stroke-width="2"/>
+      <line x1="30" y1="0" x2="30" y2="20" stroke="#8c3a10" stroke-width="2"/>
+    </pattern>
+  </defs>
+
+  <!-- Sky -->
+  <rect width="1200" height="260" fill="#5c94fc"/>
+
+  <!-- Clouds -->
+  <g fill="white">
+    <ellipse cx="200" cy="60" rx="40" ry="25"/>
+    <ellipse cx="240" cy="60" rx="50" ry="30"/>
+    <ellipse cx="280" cy="60" rx="40" ry="25"/>
+  </g>
+
+  <!-- Ground -->
+  <rect y="215" width="1200" height="45" fill="#8B4513"/>
+
+  <!-- Brick Platform -->
+  <rect x="360" y="175" width="180" height="40" fill="url(#brickPattern)"/>
+
+  <!-- Spinning Coin -->
+  <ellipse cx="450" cy="140" rx="22" ry="28" fill="#FFD700">
+    <animate attributeName="rx"
+             values="22;6;22"
+             dur="0.8s"
+             repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Mario (Perfectly Centered & Grounded) -->
+<g transform="translate(220,130)">
+
+  <!-- Hat -->
+  <rect x="30" y="0" width="40" height="15" fill="#d62828"/>
+
+  <!-- Face -->
+  <rect x="35" y="15" width="30" height="25" fill="#f1c27d"/>
+
+  <!-- Body -->
+  <rect x="30" y="40" width="40" height="35" fill="#0033a0"/>
+
+  <!-- Arms -->
+  <rect x="15" y="38" width="15" height="12" fill="#f1c27d"/>
+  <rect x="70" y="38" width="15" height="12" fill="#f1c27d"/>
+
+  <!-- Legs (Mathematically Centered Under Body) -->
+  <rect x="32" y="65" width="15" height="25" fill="#8b0000"/>
+  <rect x="53" y="65" width="15" height="25" fill="#8b0000"/>
+
+</g>
+
+  <!-- Pipe -->
+  <rect x="1000" y="155" width="90" height="105" fill="#2faa2f"/>
+  <rect x="980" y="135" width="130" height="25" fill="#36c936"/>
+
+  <!-- Footer Text -->
+  <text x="600" y="70"
+        font-family="Verdana"
+        font-size="26"
+        fill="#ffffff"
+        text-anchor="middle"
+        font-weight="bold">
+        Let’s connect 🤝
+  </text>
+
+</svg>
