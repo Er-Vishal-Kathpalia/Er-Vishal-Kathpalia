@@ -1,0 +1,145 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6c63ff"/>
+      <stop offset="100%" stop-color="#48bfe3"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#c8c8e0"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0a0f"/>
+      <stop offset="100%" stop-color="#0f0f17"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="320" fill="url(#bgGrad)"/>
+
+  <!-- ===== Particle Constellation ===== -->
+  <!-- Connection lines (faint) -->
+  <line x1="95" y1="45" x2="168" y2="78" stroke="#6c63ff" stroke-width="0.5" opacity="0.12"/>
+  <line x1="168" y1="78" x2="245" y2="52" stroke="#6c63ff" stroke-width="0.5" opacity="0.08"/>
+  <line x1="310" y1="95" x2="380" y2="60" stroke="#48bfe3" stroke-width="0.5" opacity="0.10"/>
+  <line x1="380" y1="60" x2="440" y2="105" stroke="#6c63ff" stroke-width="0.5" opacity="0.08"/>
+  <line x1="720" y1="50" x2="800" y2="85" stroke="#48bfe3" stroke-width="0.5" opacity="0.10"/>
+  <line x1="800" y1="85" x2="870" y2="42" stroke="#6c63ff" stroke-width="0.5" opacity="0.08"/>
+  <line x1="950" y1="70" x2="1020" y2="40" stroke="#48bfe3" stroke-width="0.5" opacity="0.12"/>
+  <line x1="1020" y1="40" x2="1100" y2="75" stroke="#6c63ff" stroke-width="0.5" opacity="0.08"/>
+  <line x1="80" y1="255" x2="150" y2="230" stroke="#6c63ff" stroke-width="0.5" opacity="0.10"/>
+  <line x1="350" y1="260" x2="420" y2="240" stroke="#48bfe3" stroke-width="0.5" opacity="0.08"/>
+  <line x1="780" y1="250" x2="860" y2="270" stroke="#6c63ff" stroke-width="0.5" opacity="0.10"/>
+  <line x1="1000" y1="240" x2="1080" y2="265" stroke="#48bfe3" stroke-width="0.5" opacity="0.08"/>
+
+  <!-- Particles — top region -->
+  <circle cx="95" cy="45" r="2" fill="#6c63ff" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;0.2;0.5" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="168" cy="78" r="1.5" fill="#48bfe3" opacity="0.4">
+    <animate attributeName="opacity" values="0.4;0.15;0.4" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="245" cy="52" r="2.5" fill="#6c63ff" opacity="0.35">
+    <animate attributeName="opacity" values="0.35;0.1;0.35" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="310" cy="95" r="1.5" fill="#48bfe3" opacity="0.3"/>
+  <circle cx="380" cy="60" r="2" fill="#6c63ff" opacity="0.45">
+    <animate attributeName="opacity" values="0.45;0.2;0.45" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="440" cy="105" r="1.5" fill="#8b83ff" opacity="0.25"/>
+  <circle cx="530" cy="40" r="2" fill="#48bfe3" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.1;0.3" dur="5.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="650" cy="70" r="1.5" fill="#6c63ff" opacity="0.35"/>
+  <circle cx="720" cy="50" r="2.5" fill="#48bfe3" opacity="0.4">
+    <animate attributeName="opacity" values="0.4;0.15;0.4" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="800" cy="85" r="1.5" fill="#6c63ff" opacity="0.3"/>
+  <circle cx="870" cy="42" r="2" fill="#8b83ff" opacity="0.35">
+    <animate attributeName="opacity" values="0.35;0.12;0.35" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="950" cy="70" r="1.5" fill="#48bfe3" opacity="0.25"/>
+  <circle cx="1020" cy="40" r="2" fill="#6c63ff" opacity="0.4">
+    <animate attributeName="opacity" values="0.4;0.2;0.4" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1100" cy="75" r="2.5" fill="#48bfe3" opacity="0.3"/>
+  <circle cx="1160" cy="50" r="1.5" fill="#6c63ff" opacity="0.2"/>
+
+  <!-- Particles — bottom region -->
+  <circle cx="80" cy="255" r="2" fill="#6c63ff" opacity="0.35">
+    <animate attributeName="opacity" values="0.35;0.12;0.35" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="150" cy="230" r="1.5" fill="#48bfe3" opacity="0.25"/>
+  <circle cx="250" cy="270" r="2" fill="#8b83ff" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.1;0.3" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="350" cy="260" r="1.5" fill="#6c63ff" opacity="0.2"/>
+  <circle cx="420" cy="240" r="2.5" fill="#48bfe3" opacity="0.35">
+    <animate attributeName="opacity" values="0.35;0.15;0.35" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="550" cy="275" r="1.5" fill="#6c63ff" opacity="0.25"/>
+  <circle cx="650" cy="250" r="2" fill="#48bfe3" opacity="0.3"/>
+  <circle cx="780" cy="250" r="1.5" fill="#6c63ff" opacity="0.35">
+    <animate attributeName="opacity" values="0.35;0.1;0.35" dur="5.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="860" cy="270" r="2" fill="#8b83ff" opacity="0.2"/>
+  <circle cx="1000" cy="240" r="2.5" fill="#48bfe3" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.12;0.3" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1080" cy="265" r="1.5" fill="#6c63ff" opacity="0.25"/>
+  <circle cx="1150" cy="245" r="2" fill="#48bfe3" opacity="0.2"/>
+
+  <!-- ===== Center Content ===== -->
+
+  <!-- Name -->
+  <text x="600" y="135"
+        font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
+        font-size="48"
+        fill="url(#textGrad)"
+        text-anchor="middle"
+        font-weight="700"
+        letter-spacing="3">
+    VISHAL KATHPALIA
+  </text>
+
+  <!-- Role -->
+  <text x="600" y="170"
+        font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
+        font-size="16"
+        fill="#8888a0"
+        text-anchor="middle"
+        letter-spacing="4">
+    SOFTWARE ENGINEER II  &#x2022;  TEKION CORP  &#x2022;  BENGALURU
+  </text>
+
+  <!-- Terminal prompt line -->
+  <g transform="translate(600,210)">
+    <!-- Prompt bg -->
+    <rect x="-230" y="-18" width="460" height="32" rx="6" fill="#141420" opacity="0.8"/>
+    <!-- Prompt symbol -->
+    <text x="-215" y="2"
+          font-family="'Courier New','SF Mono',monospace"
+          font-size="14"
+          fill="#6c63ff"
+          font-weight="bold">~$</text>
+    <!-- Prompt text -->
+    <text x="-192" y="2"
+          font-family="'Courier New','SF Mono',monospace"
+          font-size="14"
+          fill="#48bfe3">
+      building systems that serve millions
+    </text>
+    <!-- Blinking cursor -->
+    <rect x="186" y="-10" width="8" height="16" fill="#6c63ff" rx="1">
+      <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- ===== Bottom gradient accent bar ===== -->
+  <rect x="200" y="290" width="800" height="2" rx="1" fill="url(#accentGrad)" opacity="0.6"/>
+
+  <!-- Glow effect on the bar -->
+  <rect x="350" y="288" width="500" height="6" rx="3" fill="url(#accentGrad)" opacity="0.08"/>
+
+</svg>
