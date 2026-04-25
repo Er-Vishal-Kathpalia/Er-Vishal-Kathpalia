@@ -1,0 +1,127 @@
+<svg width="840" height="320" viewBox="0 0 840 320" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <clipPath id="editorClip">
+      <rect width="840" height="320" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#editorClip)">
+
+    <!-- Window background -->
+    <rect width="840" height="320" rx="12" fill="#0f0f17" stroke="#1e1e30" stroke-width="1.5"/>
+
+    <!-- Title bar -->
+    <rect width="840" height="36" fill="#141420"/>
+    <line x1="0" y1="36" x2="840" y2="36" stroke="#1e1e30" stroke-width="1"/>
+
+    <!-- Traffic light buttons -->
+    <circle cx="20" cy="18" r="6" fill="#ff5f57"/>
+    <circle cx="40" cy="18" r="6" fill="#ffbd2e"/>
+    <circle cx="60" cy="18" r="6" fill="#28c840"/>
+
+    <!-- File tab -->
+    <rect x="85" y="8" width="190" height="20" rx="4" fill="#0f0f17"/>
+    <text x="97" y="22"
+          font-family="'SF Mono','Courier New',monospace"
+          font-size="11"
+          fill="#48bfe3">OrderProcessor</text>
+    <text x="209" y="22"
+          font-family="'SF Mono','Courier New',monospace"
+          font-size="11"
+          fill="#5a5a72">.java</text>
+
+    <!-- Line number gutter background -->
+    <rect x="0" y="36" width="44" height="284" fill="#0a0a0f" opacity="0.5"/>
+
+    <!-- Line numbers -->
+    <text font-family="'SF Mono','Courier New',monospace" font-size="12" fill="#333348" text-anchor="end">
+      <tspan x="36" y="62">1</tspan>
+      <tspan x="36" y="80">2</tspan>
+      <tspan x="36" y="98">3</tspan>
+      <tspan x="36" y="116">4</tspan>
+      <tspan x="36" y="134">5</tspan>
+      <tspan x="36" y="152">6</tspan>
+      <tspan x="36" y="170">7</tspan>
+      <tspan x="36" y="188">8</tspan>
+      <tspan x="36" y="206">9</tspan>
+      <tspan x="32" y="224">10</tspan>
+      <tspan x="32" y="242">11</tspan>
+      <tspan x="32" y="260">12</tspan>
+      <tspan x="32" y="278">13</tspan>
+      <tspan x="32" y="296">14</tspan>
+    </text>
+
+    <!-- Code line 1: @Service -->
+    <text x="56" y="62" font-family="'SF Mono','Courier New',monospace" font-size="12.5">
+      <tspan fill="#DCDCAA">@Service</tspan>
+    </text>
+
+    <!-- Code line 2: public class OrderProcessor { -->
+    <text x="56" y="80" font-family="'SF Mono','Courier New',monospace" font-size="12.5">
+      <tspan fill="#6c63ff">public class </tspan><tspan fill="#48bfe3">OrderProcessor</tspan><tspan fill="#e2e2f0"> {</tspan>
+    </text>
+
+    <!-- Code line 3: blank -->
+
+    <!-- Code line 4: @Autowired field -->
+    <text x="80" y="116" font-family="'SF Mono','Courier New',monospace" font-size="12.5">
+      <tspan fill="#DCDCAA">@Autowired</tspan><tspan fill="#e2e2f0"> </tspan><tspan fill="#48bfe3">KafkaTemplate</tspan><tspan fill="#5a5a72">&lt;</tspan><tspan fill="#48bfe3">String</tspan><tspan fill="#5a5a72">, </tspan><tspan fill="#48bfe3">Event</tspan><tspan fill="#5a5a72">&gt;</tspan><tspan fill="#e2e2f0"> kafka;</tspan>
+    </text>
+
+    <!-- Code line 5: @Autowired field -->
+    <text x="80" y="134" font-family="'SF Mono','Courier New',monospace" font-size="12.5">
+      <tspan fill="#DCDCAA">@Autowired</tspan><tspan fill="#e2e2f0"> </tspan><tspan fill="#48bfe3">OrderRepository</tspan><tspan fill="#e2e2f0"> repo;</tspan>
+    </text>
+
+    <!-- Code line 6: blank -->
+
+    <!-- Code line 7: method signature -->
+    <text x="80" y="170" font-family="'SF Mono','Courier New',monospace" font-size="12.5">
+      <tspan fill="#6c63ff">public</tspan><tspan fill="#e2e2f0"> </tspan><tspan fill="#48bfe3">Order</tspan><tspan fill="#e2e2f0"> </tspan><tspan fill="#DCDCAA">process</tspan><tspan fill="#e2e2f0">(</tspan><tspan fill="#48bfe3">OrderRequest</tspan><tspan fill="#e2e2f0"> req) {</tspan>
+    </text>
+
+    <!-- Code line 8: save -->
+    <text x="104" y="188" font-family="'SF Mono','Courier New',monospace" font-size="12.5">
+      <tspan fill="#48bfe3">Order</tspan><tspan fill="#e2e2f0"> order = repo.</tspan><tspan fill="#DCDCAA">save</tspan><tspan fill="#e2e2f0">(req.</tspan><tspan fill="#DCDCAA">build</tspan><tspan fill="#e2e2f0">());</tspan>
+    </text>
+
+    <!-- Code line 9: kafka.send -->
+    <text x="104" y="206" font-family="'SF Mono','Courier New',monospace" font-size="12.5">
+      <tspan fill="#e2e2f0">kafka.</tspan><tspan fill="#DCDCAA">send</tspan><tspan fill="#e2e2f0">(</tspan><tspan fill="#a8db8f">"order.created"</tspan><tspan fill="#e2e2f0">, </tspan><tspan fill="#48bfe3">Event</tspan><tspan fill="#e2e2f0">.</tspan><tspan fill="#DCDCAA">of</tspan><tspan fill="#e2e2f0">(order));</tspan>
+    </text>
+
+    <!-- Code line 10: log -->
+    <text x="104" y="224" font-family="'SF Mono','Courier New',monospace" font-size="12.5">
+      <tspan fill="#e2e2f0">log.</tspan><tspan fill="#DCDCAA">info</tspan><tspan fill="#e2e2f0">(</tspan><tspan fill="#a8db8f">"Order {} shipped"</tspan><tspan fill="#e2e2f0">, order.getId());</tspan>
+    </text>
+
+    <!-- Code line 11: return -->
+    <text x="104" y="242" font-family="'SF Mono','Courier New',monospace" font-size="12.5">
+      <tspan fill="#6c63ff">return</tspan><tspan fill="#e2e2f0"> order;</tspan>
+    </text>
+
+    <!-- Code line 12: closing brace method -->
+    <text x="80" y="260" font-family="'SF Mono','Courier New',monospace" font-size="12.5" fill="#e2e2f0">}</text>
+
+    <!-- Code line 13: closing brace class + comment -->
+    <text x="56" y="278" font-family="'SF Mono','Courier New',monospace" font-size="12.5">
+      <tspan fill="#e2e2f0">}</tspan>
+      <tspan fill="#5a5a72"> // shipped to prod</tspan>
+      <tspan fill="#28c840"> &#x2714;</tspan>
+    </text>
+
+    <!-- Code line 14: blank with blinking cursor -->
+    <rect x="56" y="286" width="7" height="14" rx="1" fill="#6c63ff">
+      <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Current line highlight on line 14 -->
+    <rect x="44" y="284" width="796" height="18" fill="#6c63ff" opacity="0.04"/>
+
+    <!-- Active line indicator -->
+    <rect x="0" y="284" width="2" height="18" fill="#6c63ff" opacity="0.6"/>
+
+  </g>
+
+</svg>

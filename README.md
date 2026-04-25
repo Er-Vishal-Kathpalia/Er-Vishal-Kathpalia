@@ -29,6 +29,14 @@
 
 ---
 
+## 📈 Impact
+
+<p align="center">
+  <img src="./metrics.svg" width="680" alt="Key metrics — 4+ years, 12+ microservices, 90x perf boost, 20+ features"/>
+</p>
+
+---
+
 ## ⚡ Tech Stack
 
 <p align="center">
@@ -70,6 +78,18 @@
 
 ---
 
+## 👨‍💻 What I Build
+
+<p align="center">
+  <img src="./code-editor.svg" width="680" alt="Code editor — Spring Boot + Kafka microservice"/>
+</p>
+
+<p align="center">
+  <sub>The kind of code I write daily — Spring Boot services, Kafka event pipelines, clean architecture.</sub>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -98,6 +118,17 @@
 
 ---
 
+## 💡 How I Engineer
+
+```
+→ Design for failure before designing for success
+→ If it can't be measured, it can't be optimized
+→ The best code is the code you never have to debug at 3 AM
+→ Ship it, then iterate — perfect is the enemy of production
+```
+
+---
+
 <!-- Random Dev Quote -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Dev Quote"/>
@@ -105,8 +136,21 @@
 
 ---
 
+<details>
+<summary>&nbsp;🔍&nbsp;<b>You found something</b></summary>
+<br/>
+<p align="center">
+  <i>You're the kind of person who reads source code for fun.</i><br/><br/>
+  <i>I respect that. Head over to my <a href="https://vishalkathpalia.qzz.io">portfolio</a>, open the terminal (press <code>`</code>), and type <code>help</code>.</i><br/>
+  <i>There are games, easter eggs, and secrets hidden inside. Good luck.</i>
+</p>
+<br/>
+</details>
+
+---
+
 <img src="./footer.svg" width="100%" alt="footer"/>
 
 <p align="center">
-  <sub>Explore the full story at <a href="https://vishalkathpalia.qzz.io"><b>vishalkathpalia.qzz.io</b></a> — there are hidden games and easter eggs inside. Good luck finding them all.</sub>
+  <sub>Explore the full story at <a href="https://vishalkathpalia.qzz.io"><b>vishalkathpalia.qzz.io</b></a> — I hid games and easter eggs inside. Good luck finding them all.</sub>
 </p>

@@ -1,0 +1,120 @@
+<svg width="840" height="150" viewBox="0 0 840 150" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="mGrad1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6c63ff" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#6c63ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="mGrad2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#48bfe3" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#48bfe3" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="mGrad3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8b83ff" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#8b83ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="mGrad4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#48bfe3" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#48bfe3" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="840" height="150" rx="12" fill="#0f0f17" stroke="#1e1e30" stroke-width="1.5"/>
+
+  <!-- Card 1: Years -->
+  <g transform="translate(20, 15)">
+    <rect width="185" height="120" rx="10" fill="url(#mGrad1)" stroke="#1e1e30" stroke-width="1"/>
+    <!-- Animated number -->
+    <text x="92" y="62"
+          font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
+          font-size="42"
+          fill="#6c63ff"
+          text-anchor="middle"
+          font-weight="700">
+      4+
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.2s" fill="freeze"/>
+    </text>
+    <text x="92" y="85"
+          font-family="'SF Mono','Courier New',monospace"
+          font-size="11"
+          fill="#8888a0"
+          text-anchor="middle"
+          letter-spacing="1">
+      YEARS EXP
+    </text>
+    <!-- Mini sparkline -->
+    <polyline points="30,105 55,100 80,102 105,95 130,98 155,92" fill="none" stroke="#6c63ff" stroke-width="1.5" opacity="0.4"/>
+  </g>
+
+  <!-- Card 2: Microservices -->
+  <g transform="translate(225, 15)">
+    <rect width="185" height="120" rx="10" fill="url(#mGrad2)" stroke="#1e1e30" stroke-width="1"/>
+    <text x="92" y="62"
+          font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
+          font-size="42"
+          fill="#48bfe3"
+          text-anchor="middle"
+          font-weight="700">
+      12+
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.4s" fill="freeze"/>
+    </text>
+    <text x="92" y="85"
+          font-family="'SF Mono','Courier New',monospace"
+          font-size="11"
+          fill="#8888a0"
+          text-anchor="middle"
+          letter-spacing="1">
+      MICROSERVICES
+    </text>
+    <polyline points="30,105 55,98 80,100 105,93 130,96 155,88" fill="none" stroke="#48bfe3" stroke-width="1.5" opacity="0.4"/>
+  </g>
+
+  <!-- Card 3: Perf Boost -->
+  <g transform="translate(430, 15)">
+    <rect width="185" height="120" rx="10" fill="url(#mGrad3)" stroke="#1e1e30" stroke-width="1"/>
+    <text x="92" y="62"
+          font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
+          font-size="42"
+          fill="#8b83ff"
+          text-anchor="middle"
+          font-weight="700">
+      90x
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.6s" fill="freeze"/>
+    </text>
+    <text x="92" y="85"
+          font-family="'SF Mono','Courier New',monospace"
+          font-size="11"
+          fill="#8888a0"
+          text-anchor="middle"
+          letter-spacing="1">
+      PERF BOOST
+    </text>
+    <!-- Upward arrow sparkline -->
+    <polyline points="30,108 55,105 80,100 105,90 130,82 155,70" fill="none" stroke="#8b83ff" stroke-width="1.5" opacity="0.4"/>
+  </g>
+
+  <!-- Card 4: Features -->
+  <g transform="translate(635, 15)">
+    <rect width="185" height="120" rx="10" fill="url(#mGrad4)" stroke="#1e1e30" stroke-width="1"/>
+    <text x="92" y="62"
+          font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
+          font-size="42"
+          fill="#48bfe3"
+          text-anchor="middle"
+          font-weight="700">
+      20+
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.8s" fill="freeze"/>
+    </text>
+    <text x="92" y="85"
+          font-family="'SF Mono','Courier New',monospace"
+          font-size="11"
+          fill="#8888a0"
+          text-anchor="middle"
+          letter-spacing="1">
+      FEATURES SHIPPED
+    </text>
+    <polyline points="30,106 55,102 80,98 105,95 130,90 155,85" fill="none" stroke="#48bfe3" stroke-width="1.5" opacity="0.4"/>
+  </g>
+
+</svg>
