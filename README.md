@@ -1,3 +1,5 @@
+
+
 <!-- ======================== VISHAL KATHPALIA ======================== -->
 
 <img src="./header.svg" width="100%" alt="Vishal Kathpalia — Software Engineer II"/>
@@ -15,11 +17,6 @@
   <a href="https://www.linkedin.com/in/vishalkathpalia"><img src="https://img.shields.io/badge/LinkedIn-vishalkathpalia-48bfe3?style=for-the-badge&logo=linkedin&logoColor=48bfe3&labelColor=0a0a0f" alt="LinkedIn"/></a>&nbsp;
   <a href="mailto:vishalkathpalia0@gmail.com"><img src="https://img.shields.io/badge/Email-vishalkathpalia0-8b83ff?style=for-the-badge&logo=gmail&logoColor=8b83ff&labelColor=0a0a0f" alt="Email"/></a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Er-Vishal-Kathpalia&color=6c63ff&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</p>
-
 ---
 
 <!-- Terminal About -->
