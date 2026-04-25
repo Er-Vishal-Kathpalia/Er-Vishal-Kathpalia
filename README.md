@@ -54,10 +54,18 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Journey
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Er-Vishal-Kathpalia&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <img src="./journey.svg" width="680" alt="Career journey at Tekion Corp"/>
+</p>
+
+---
+
+## 🎯 Skill Proficiency
+
+<p align="center">
+  <img src="./skills.svg" width="680" alt="Skill proficiency bars"/>
 </p>
 
 ---
@@ -78,16 +86,6 @@
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Er-Vishal-Kathpalia&bg_color=0a0a0f&color=8888a0&line=6c63ff&point=48bfe3&area_color=6c63ff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph"/>
-
----
-
-## 🐍 Watch My Contributions Get Eaten
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Er-Vishal-Kathpalia/Er-Vishal-Kathpalia/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Er-Vishal-Kathpalia/Er-Vishal-Kathpalia/output/github-snake.svg"/>
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Er-Vishal-Kathpalia/Er-Vishal-Kathpalia/output/github-snake.svg" width="100%"/>
-</picture>
 
 ---
 
